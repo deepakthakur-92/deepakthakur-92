@@ -18,7 +18,7 @@ My Github Stats
 📫 How to reach me-
    -  My profile on [Linkedin](https://linkedin.com/in/deepakthakur2913)
    -  My contribution on [Medium](https://medium.com/@deepak2009thakur_46286)
-   -  My contribution in [Kaggle](https://.kaggle.com/deepakthakur92)
+   -  My contribution in [Kaggle](https://kaggle.com/deepakthakur92)
 
 
 
