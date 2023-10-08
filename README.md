@@ -1,8 +1,8 @@
 👋 Hi, I’m Deepak Thakur
 
-Machine Learning Enthusiast | Test Automation Engineer
+Data Scientist | Data Assurance Engineer
 
-To utilize my knowledge and ideas in this field of machine learning toward the smooth functioning of organization,I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
+To utilize my knowledge and ideas in this field of machine learning toward the smooth functioning of organization, I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
 
 My Github Stats
 
@@ -11,9 +11,9 @@ My Github Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakthakur-92&show_icons=true&theme=radical)
 
 
-👀 I’m interested in Machine Learning & Data Science
+👀 I’ve experience in Machine Learning & Data Science
 
-🌱 I’m currently learning - Deep Learning, NLP, Computer Vision
+🌱 I’m currently learning - LLMs, Generative AI
 
 📫 How to reach me-
    -  My profile on [Linkedin](https://linkedin.com/in/deepakthakur2913)
