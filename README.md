@@ -1,6 +1,6 @@
 👋 Hi, I’m Deepak Thakur
 
-Data Scientist | Data Assurance Engineer
+Data Scientist Enthusisat | Quality Assurance Engineer
 
 To utilize my knowledge and ideas in this field of machine learning toward the smooth functioning of organization, I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
 
@@ -11,7 +11,7 @@ My Github Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakthakur-92&show_icons=true&theme=radical)
 
 
-👀 I’ve experience in Machine Learning & Data Science
+👀 I am skilled in Machine Learning & Data Science
 
 🌱 I’m currently learning - LLMs, Generative AI
 
