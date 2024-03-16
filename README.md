@@ -1,6 +1,6 @@
 👋 Hi, I’m Deepak Thakur
 
-Data Scientist Enthusisat | Quality Assurance Engineer
+Data Scientist Enthusisat | Senior Test Engineer(AI, ML & GenAI)
 
 To utilize my knowledge and ideas in this field of machine learning toward the smooth functioning of organization, I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
 
