@@ -1,6 +1,6 @@
 👋 Hi, I’m Deepak Thakur
 
-Data Scientist Enthusisat | Senior Test Engineer(AI, ML & GenAI)
+Lead Data Scientist
 
 To utilize my knowledge and ideas in this field of machine learning toward the smooth functioning of organization, I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
 
@@ -11,9 +11,8 @@ My Github Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakthakur-92&show_icons=true&theme=radical)
 
 
-👀 I am skilled in Machine Learning & Data Science
+👀 I am skilled in Python, Machine Learning, Deep Learning, NLP, GenAI & Agentic AI
 
-🌱 I’m currently learning - LLMs, Generative AI
 
 📫 How to reach me-
    -  My profile on [Linkedin](https://linkedin.com/in/deepakthakur2913)
